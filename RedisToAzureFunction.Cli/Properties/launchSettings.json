@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "RedisToAzureFunction.Cli": {
+      "commandName": "Project"
+    }
+  }
+}

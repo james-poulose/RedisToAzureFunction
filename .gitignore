@@ -1,0 +1,4 @@
+/packages/*
+/.vs/*
+/RedisToAzureFunction.Cli/bin/*
+/RedisToAzureFunction.Cli/obj/*
